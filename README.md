@@ -1,4 +1,4 @@
-Signify: Real-Time Sign Language to Speech 🖐️🔊
+SIGNIFY: REAL TIME SIGN LANGUAGE TO SPEECH🖐️🔊
 
 This project uses AI and computer vision to detect sign language gestures in real-time and convert them into spoken words. The system leverages Mediapipe for hand tracking, a gesture classification model, and text-to-speech engines (pyttsx3 / gTTS / edge-tts) to enable seamless communication.
 
